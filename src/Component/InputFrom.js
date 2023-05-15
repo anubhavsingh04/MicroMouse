@@ -31,7 +31,7 @@ function InputForm() {
         minHeight: "100vh",
         backgroundColor: '#b9dced',
       }}
-    >  <h1>Micromouse Assignment</h1>
+    >  <h1>MazeRobot</h1>
       {!showGrid ? (
         <form
           onSubmit={handleSubmit}
