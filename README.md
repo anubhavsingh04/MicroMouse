@@ -1,4 +1,4 @@
-<h1><a href="https://mazerobot.netlify.app/">Live Site</a></h1>
+<h1><a href="https://mazerorbot.netlify.app/">Live Site</a></h1>
 
 # Getting Started with Create React App
 
